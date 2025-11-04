@@ -1,5 +1,9 @@
 # Interactive Portfolio Game - Phase & Ticket Breakdown
 
+## Example Site
+
+    https://peteroravec.com/
+
 ## Phase Overview Table
 
 | Phase | Phase Name                       | Goal                                                                           | Tickets | Est. Time |
